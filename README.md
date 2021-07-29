@@ -1,2 +1,2 @@
-# counries
+# countries
 working with countries API
